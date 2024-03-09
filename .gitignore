@@ -1,4 +1,10 @@
+# Ignore python enviornment install from requirments.txt
 /.env
+
+# Ignore VSCode files
 /.vscode
 *.code-workspace
+
+# Ignore all local build files with metadata
+*test-build*
 
